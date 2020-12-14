@@ -20,4 +20,10 @@ Google Colab https://colab.research.google.com/
 
 ## Session 2
 
+* [Slides](https://bit.ly/3gKGepj)
+
+* Notebook - [Training Neural Networks with TensorFlow](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
+
+## Session 3
+
 To be posted. Please check back
