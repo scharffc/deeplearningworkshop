@@ -24,6 +24,8 @@ Google Colab https://colab.research.google.com/
 
 * Notebook - [Training Neural Networks with TensorFlow](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
+* [Video](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=112fe430-46d7-4485-91f5-ac91018b603b)
+
 ## Session 3
 
 To be posted. Please check back
