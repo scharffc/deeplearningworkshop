@@ -12,29 +12,33 @@ Google Colab https://colab.research.google.com/
 
 ### Session 1 - Intro to Python
 
-* Notebook - Intro to Python - https://bit.ly/2W7tvmY
+* Notebook - [Intro to Python](https://bit.ly/2W7tvmY)
 
-* [Video](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65023911-7c53-4572-80fb-ac8e018355a5) 
+* [Recording](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65023911-7c53-4572-80fb-ac8e018355a5) 
 
-* Notebook - pandas, NumPy, matplotlib - https://bit.ly/2LoOlMx
+* Notebook - [pandas, NumPy, matplotlib](https://bit.ly/2LoOlMx)
 
 ## Session 2
 
 * [Slides](https://bit.ly/3gKGepj)
 
-* Notebook - [Training Neural Networks with TensorFlow](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
+* Notebook - [MNIST example](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
-* [Video](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=112fe430-46d7-4485-91f5-ac91018b603b)
+* [Recording](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=112fe430-46d7-4485-91f5-ac91018b603b)
+
+* Homework - Notebook - [Fashion MNIST](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
 ## Session 3
 
 * [Slides](https://bit.ly/3gKGepj)
 
-* Notebook - [Fashion MNIST](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb#scrollTo=6aPzoJnd_8QA)
+* Notebook - [Fashion MNIST](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
   * [Solution](https://colab.research.google.com/drive/1P2q0609IwVirmzBEryfEBmMvsrg1qxiA?usp=sharing)
 
-* Notebook - [Cats and Dogs](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb#scrollTo=6aPzoJnd_8QA)
+* Notebook - [Cats and Dogs](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
+
+* Homework - Notebook - [Reducing Overfitting](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
 ## Session 4
 
