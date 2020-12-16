@@ -28,4 +28,14 @@ Google Colab https://colab.research.google.com/
 
 ## Session 3
 
+* [Slides](https://bit.ly/3gKGepj)
+
+* Notebook - [Fashion MNIST](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb#scrollTo=6aPzoJnd_8QA)
+
+  * [Solution](https://colab.research.google.com/drive/1P2q0609IwVirmzBEryfEBmMvsrg1qxiA?usp=sharing)
+
+* Notebook - [Cats and Dogs](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb#scrollTo=6aPzoJnd_8QA)
+
+## Session 4
+
 To be posted. Please check back
