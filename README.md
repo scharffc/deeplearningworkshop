@@ -38,6 +38,8 @@ Google Colab https://colab.research.google.com/
 
 * Notebook - [Cats and Dogs](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
+*[Recording](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b03136a-341f-44dc-b3ca-ac9301812767)
+
 * Homework - Notebook - [Reducing Overfitting](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
 ## Session 4
