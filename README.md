@@ -44,10 +44,14 @@ Google Colab https://colab.research.google.com/
 
 ## Session 4 - Text classification
 
+* [Slides](https://bit.ly/3gKGepj)
+
 * Notebook - [Basic Text Classification](https://www.tensorflow.org/tutorials/keras/text_classification)
 
 To be posted. Please check back
 
 ## Competition 
 
-Submit your entry [here](http://bit.ly/2KlWdOF) 
+* Description on the [Slides](https://bit.ly/3gKGepj)
+
+* Submit your entry [here](http://bit.ly/2KlWdOF) by January 4th 11:59 PM (US) 
