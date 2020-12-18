@@ -18,7 +18,7 @@ Google Colab https://colab.research.google.com/
 
 * Notebook - [pandas, NumPy, matplotlib](https://bit.ly/2LoOlMx)
 
-## Session 2 - Introduction to Computer Vision
+### Session 2 - Introduction to Computer Vision
 
 * [Slides](https://bit.ly/3gKGepj)
 
@@ -28,7 +28,7 @@ Google Colab https://colab.research.google.com/
 
 * Homework - Notebook - [Fashion MNIST](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
-## Session 3 - Real-world Image Classification
+### Session 3 - Real-world Image Classification
 
 * [Slides](https://bit.ly/3gKGepj)
 
@@ -42,7 +42,7 @@ Google Colab https://colab.research.google.com/
 
 * Homework - Notebook - [Reducing Overfitting](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
-## Session 4 - Text classification
+### Session 4 - Text classification
 
 * [Slides](https://bit.ly/3gKGepj)
 
@@ -50,7 +50,7 @@ Google Colab https://colab.research.google.com/
 
 To be posted. Please check back
 
-## Competition 
+### Competition 
 
 * Description on the [Slides](https://bit.ly/3gKGepj)
 
