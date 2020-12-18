@@ -42,7 +42,9 @@ Google Colab https://colab.research.google.com/
 
 * Homework - Notebook - [Reducing Overfitting](https://colab.research.google.com/github/random-forests/IWD-2020/blob/master/iwd_2020.ipynb)
 
-## Session 4
+## Session 4 - Text classification
+
+* Notebook - [Basic Text Classification](https://www.tensorflow.org/tutorials/keras/text_classification)
 
 To be posted. Please check back
 
