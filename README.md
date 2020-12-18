@@ -45,3 +45,7 @@ Google Colab https://colab.research.google.com/
 ## Session 4
 
 To be posted. Please check back
+
+## Competition 
+
+Submit your entry [here](http://bit.ly/2KlWdOF) 
