@@ -57,3 +57,7 @@ To be posted. Please check back
 * Description on the [Slides](https://bit.ly/3gKGepj)
 
 * Submit your entry [here](http://bit.ly/2KlWdOF) by January 4th 11:59 PM (US) 
+
+### Resources
+
+  * [Links posted during the lectures](http://bit.ly/34tTGJd)
