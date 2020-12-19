@@ -48,6 +48,8 @@ Google Colab https://colab.research.google.com/
 
 * Notebook - [Basic Text Classification](https://www.tensorflow.org/tutorials/keras/text_classification)
 
+* [Recording](https://pace.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=201d1495-e3a1-4830-bea7-ac950179c11e)
+
 To be posted. Please check back
 
 ### Competition 
