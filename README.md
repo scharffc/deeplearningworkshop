@@ -1,5 +1,7 @@
 # Deep Learning Working - December 2020
 
+[https://github.com/scharffc/deeplearning/blob/main/flyer.png](flyer)
+
 ## Slack
 
 https://app.slack.com/client/T01GNMT9K53/C01GK3LUJS2
