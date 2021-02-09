@@ -60,6 +60,15 @@ To be posted. Please check back
 
 * Submit your entry [here](http://bit.ly/2KlWdOF) by January 4th 11:59 PM (US) 
 
+### Students' projects
+
+* Training of a neural network to be able to classify the differences between bucks (male deer, typically with antlers) and does (female deer). Images were collected from a Bushnell game camera in the student farm in Higbee, Missouri. 
+
+* Training of a neural network to detect masked facial expression (happy, surprised, confused). 
+
 ### Resources
 
   * [Links posted during the lectures](http://bit.ly/34tTGJd)
+
+
+
