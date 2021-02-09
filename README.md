@@ -64,7 +64,11 @@ To be posted. Please check back
 
 * Training of a neural network to be able to classify the differences between bucks (male deer, typically with antlers) and does (female deer). Images were collected from a Bushnell game camera in the student farm in Higbee, Missouri. 
 
+![doesbucks](https://github.com/scharffc/deeplearning/blob/main/doesbucks_small.png)
+
 * Training of a neural network to detect masked facial expression (happy, surprised, confused). 
+
+![masks](https://github.com/scharffc/deeplearning/blob/main/masks.png)
 
 ### Resources
 
